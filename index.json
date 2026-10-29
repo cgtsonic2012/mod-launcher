@@ -1,0 +1,78 @@
+{
+  "launcher": "1.0.0",
+  "launcherUrl": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/ModLauncher.zip",
+  "packages": [
+    {
+      "id": "_common",
+      "version": "1.0.0",
+      "file": "_common-1.0.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/_common-1.0.0.zip"
+    },
+    {
+      "id": "hahueuh-authorities",
+      "version": "1.0.0",
+      "file": "hahueuh-authorities-1.0.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/hahueuh-authorities-1.0.0.zip"
+    },
+    {
+      "id": "hallucination-chess",
+      "version": "8.0.0",
+      "file": "hallucination-chess-8.0.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/hallucination-chess-8.0.0.zip"
+    },
+    {
+      "id": "helldiver",
+      "version": "0.2.1",
+      "file": "helldiver-0.2.1.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/helldiver-0.2.1.zip"
+    },
+    {
+      "id": "projection-sorcery",
+      "version": "0.2.0",
+      "file": "projection-sorcery-0.2.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/projection-sorcery-0.2.0.zip"
+    },
+    {
+      "id": "returnbydeath",
+      "version": "0.2.0",
+      "file": "returnbydeath-0.2.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/returnbydeath-0.2.0.zip"
+    },
+    {
+      "id": "rezero-battlegrounds",
+      "version": "0.1.0",
+      "file": "rezero-battlegrounds-0.1.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/rezero-battlegrounds-0.1.0.zip"
+    },
+    {
+      "id": "rezero-rounds",
+      "version": "0.1.0",
+      "file": "rezero-rounds-0.1.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/rezero-rounds-0.1.0.zip"
+    },
+    {
+      "id": "stevekill",
+      "version": "0.1.0",
+      "file": "stevekill-0.1.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/stevekill-0.1.0.zip"
+    },
+    {
+      "id": "ultracraft",
+      "version": "0.1.0",
+      "file": "ultracraft-0.1.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/ultracraft-0.1.0.zip"
+    },
+    {
+      "id": "undertale-flowey",
+      "version": "1.0.0",
+      "file": "undertale-flowey-1.0.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/undertale-flowey-1.0.0.zip"
+    },
+    {
+      "id": "v1craft",
+      "version": "0.1.0",
+      "file": "v1craft-0.1.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/v1craft-0.1.0.zip"
+    }
+  ]
+}

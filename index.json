@@ -27,6 +27,12 @@
       "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/helldiver-0.2.1.zip"
     },
     {
+      "id": "jjk-rounds",
+      "version": "0.1.0",
+      "file": "jjk-rounds-0.1.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/jjk-rounds-0.1.0.zip"
+    },
+    {
       "id": "projection-sorcery",
       "version": "0.5.0",
       "file": "projection-sorcery-0.5.0.zip",

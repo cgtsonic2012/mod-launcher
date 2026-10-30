@@ -1,12 +1,12 @@
 {
-  "launcher": "1.0.0",
+  "launcher": "1.1.0",
   "launcherUrl": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/ModLauncher.zip",
   "packages": [
     {
       "id": "_common",
-      "version": "1.0.0",
-      "file": "_common-1.0.0.zip",
-      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/_common-1.0.0.zip"
+      "version": "1.1.0",
+      "file": "_common-1.1.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/_common-1.1.0.zip"
     },
     {
       "id": "hahueuh-authorities",

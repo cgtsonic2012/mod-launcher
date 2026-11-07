@@ -39,6 +39,12 @@
       "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/jjk-rounds-0.1.0.zip"
     },
     {
+      "id": "little-ghost",
+      "version": "0.2.0",
+      "file": "little-ghost-0.2.0.zip",
+      "url": "https://github.com/cgtsonic2012/mod-launcher/releases/download/packages/little-ghost-0.2.0.zip"
+    },
+    {
       "id": "projection-sorcery",
       "version": "0.5.0",
       "file": "projection-sorcery-0.5.0.zip",
